@@ -1,0 +1,12 @@
+name: Artigeno
+main: no.artige.Artige
+description: A plugin created specifically for Artige.no minecraft server
+version: 1.0
+author: CXdur
+commands:
+    rank:
+      aliases:
+        - setrank
+      description: Endre ranken paa en spiller
+      usage: |
+             /<command>
